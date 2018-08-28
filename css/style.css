@@ -35,6 +35,9 @@ body{
 	background-color: #512DA8;
 }
 
-#reservetable > a:link{
-	color: white;
+.tab-content{
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	padding: 10px;
 }
